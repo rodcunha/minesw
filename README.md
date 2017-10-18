@@ -1,2 +1,0 @@
-# minesw
-Codecademy Minesweeper
